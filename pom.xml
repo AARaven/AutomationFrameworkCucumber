@@ -7,6 +7,29 @@
     <groupId>com.voronin.qa</groupId>
     <artifactId>edu-java8-tasks</artifactId>
     <version>1.0-SNAPSHOT</version>
-   
     
+    <properties>
+        <junit.version>5.5.0-M1</junit.version>
+    </properties>
+    
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.8.0</version>
+            </plugin>
+        </plugins>
+    </build>
+    
+    <dependencies>
+        <!--Junit 5-->
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>${junit.version}</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
 </project>
