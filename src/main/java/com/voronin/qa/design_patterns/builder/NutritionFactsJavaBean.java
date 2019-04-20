@@ -1,4 +1,4 @@
-package com.voronin.qa.constructors;
+package com.voronin.qa.design_patterns.builder;
 
 import java.util.Objects;
 
@@ -106,6 +106,7 @@ public class NutritionFactsJavaBean {
 }
 
 class NutritionFactsJavaBeanDemo {
+
     public static void main( String[] args ) {
 
         NutritionFactsJavaBean cocaCola = new NutritionFactsJavaBean();

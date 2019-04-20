@@ -1,4 +1,4 @@
-package com.voronin.qa.constructors.utils;
+package com.voronin.qa.utils;
 
 import java.io.File;
 import java.io.FileReader;

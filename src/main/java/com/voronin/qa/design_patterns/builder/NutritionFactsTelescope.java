@@ -1,4 +1,4 @@
-package com.voronin.qa.constructors;
+package com.voronin.qa.design_patterns.builder;
 
 import java.util.Objects;
 
@@ -102,6 +102,7 @@ public class NutritionFactsTelescope {
 }
 
 class TelescopeConstructorDemo {
+
     public static void main( String[] args ) {
         NutritionFactsTelescope cocaCola = new NutritionFactsTelescope( 250 , 2 );
         System.out.println( cocaCola );
