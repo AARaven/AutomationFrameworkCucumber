@@ -91,8 +91,8 @@ class NyPizza extends AbstractPizzaBuilder {
     public String toString() {
         final StringBuilder sb;
         sb = new StringBuilder( "NyPizza{" );
-        sb.append( "size=" ).append( size );
-        sb.append( ", toppings=" ).append( toppings );
+        sb.append( "size=" ).append( this.size );
+        sb.append( ", toppings=" ).append( this.toppings );
         sb.append( '}' );
         return sb.toString();
     }
@@ -107,7 +107,7 @@ class Calzone extends AbstractPizzaBuilder {
         private boolean sauceInside = false;  //По умолчанию
 
         public Builder sauceInside() {
-            sauceInside = true;
+            this.sauceInside = true;
             return this;
         }
 
@@ -144,8 +144,8 @@ class Calzone extends AbstractPizzaBuilder {
     public String toString() {
         final StringBuilder sb;
         sb = new StringBuilder( "Calzone{" );
-        sb.append( "sauceInside=" ).append( sauceInside );
-        sb.append( ", toppings=" ).append( toppings );
+        sb.append( "sauceInside=" ).append( this.sauceInside );
+        sb.append( ", toppings=" ).append( this.toppings );
         sb.append( '}' );
         return sb.toString();
     }
