@@ -9,11 +9,15 @@ package com.voronin.qa.models.webdriver;
  */
 public enum Browsers {
 
-    /** Implementation of chrome browser web driver for Windows */
+    /**
+     * Implementation of chrome browser web driver for Windows
+     */
     CHROME_DRIVER_WINDOWS( "chrome_driver_windows" ) {
 
     },
-    /** Implementation of firefox browser web driver for Windows */
+    /**
+     * Implementation of firefox browser web driver for Windows
+     */
     FIREFOX_DRIVER_WINDOWS( "firefox_driver_windows" ) {
 
     },

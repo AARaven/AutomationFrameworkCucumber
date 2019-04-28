@@ -2,13 +2,14 @@ package com.voronin.qa.models.web.interfaces;
 
 public interface WebPage {
 
-    void open();
+    public void open();
 
-    void close();
+    public void close();
 
-    void forward();
+    public void forward();
 
-    void back();
+    public void back();
 
-    void refresh();
+    public void refresh();
+
 }

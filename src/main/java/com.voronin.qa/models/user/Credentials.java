@@ -9,16 +9,13 @@ public class Credentials {
         return this.email;
     }
 
-    public void setEmail( String email ) {
-        this.email = email;
-    }
-
     public String getPassword() {
         return this.password;
     }
 
-    public void setPassword( String password ) {
-        this.password = password;
+    private Credentials() {
+        this.email    = null;
+        this.password = null;
     }
 
     public Credentials( String email , String password ) {

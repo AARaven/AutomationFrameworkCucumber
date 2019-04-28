@@ -1,0 +1,214 @@
+{
+  "ALABAMA"              : {
+    "name"     : "Alabama" ,
+    "position" : "1"
+  } ,
+  "ALASKA"               : {
+    "name"     : "Alaska" ,
+    "position" : "2"
+  } ,
+  "ARIZONA"              : {
+    "name"     : "Arizona" ,
+    "position" : "3"
+  } ,
+  "ARKANSAS"             : {
+    "name"     : "Arkansas" ,
+    "position" : "4"
+  } ,
+  "CALIFORNIA"           : {
+    "name"     : "California" ,
+    "position" : "5"
+  } ,
+  "COLORADO"             : {
+    "name"     : "Colorado" ,
+    "position" : "6"
+  } ,
+  "CONNECTICUT"          : {
+    "name"     : "Connecticut" ,
+    "position" : "7"
+  } ,
+  "DELAWARE"             : {
+    "name"     : "Delaware" ,
+    "position" : "8"
+  } ,
+  "DISTRICT_OF_COLUMBIA" : {
+    "name"     : "District of Columbia" ,
+    "position" : "53"
+  } ,
+  "FLORIDA"              : {
+    "name"     : "Florida" ,
+    "position" : "9"
+  } ,
+  "GEORGIA"              : {
+    "name"     : "Georgia" ,
+    "position" : "10"
+  } ,
+  "HAWAII"               : {
+    "name"     : "Hawaii" ,
+    "position" : "11"
+  } ,
+  "IDAHO"                : {
+    "name"     : "Idaho" ,
+    "position" : "12"
+  } ,
+  "ILLINOIS"             : {
+    "name"     : "Illinois" ,
+    "position" : "13"
+  } ,
+  "INDIANA"              : {
+    "name"     : "Indiana" ,
+    "position" : "14"
+  } ,
+  "IOWA"                 : {
+    "name"     : "Iowa" ,
+    "position" : "15"
+  } ,
+  "KANSAS"               : {
+    "name"     : "Kansas" ,
+    "position" : "16"
+  } ,
+  "KENTUCKY"             : {
+    "name"     : "Kentucky" ,
+    "position" : "17"
+  } ,
+  "LOUISIANA"            : {
+    "name"     : "Louisiana" ,
+    "position" : "18"
+  } ,
+  "MAINE"                : {
+    "name"     : "Maine" ,
+    "position" : "19"
+  } ,
+  "MARYLAND"             : {
+    "name"     : "Maryland" ,
+    "position" : "20"
+  } ,
+  "MASSACHUSETTS"        : {
+    "name"     : "Massachusetts" ,
+    "position" : "21"
+  } ,
+  "MICHIGAN"             : {
+    "name"     : "Michigan" ,
+    "position" : "22"
+  } ,
+  "MINNESOTA"            : {
+    "name"     : "Minnesota" ,
+    "position" : "23"
+  } ,
+  "MISSISSIPPI"          : {
+    "name"     : "Mississippi" ,
+    "position" : "24"
+  } ,
+  "MISSOURI"             : {
+    "name"     : "Missouri" ,
+    "position" : "25"
+  } ,
+  "MONTANA"              : {
+    "name"     : "Montana" ,
+    "position" : "26"
+  } ,
+  "NEBRASKA"             : {
+    "name"     : "Nebraska" ,
+    "position" : "27"
+  } ,
+  "NEVADA"               : {
+    "name"     : "Nevada" ,
+    "position" : "28"
+  } ,
+  "NEW_HAMPSHIRE"        : {
+    "name"     : "New Hampshire" ,
+    "position" : "29"
+  } ,
+  "NEW_JERSEY"           : {
+    "name"     : "New Jersey" ,
+    "position" : "30"
+  } ,
+  "NEW_MEXICO"           : {
+    "name"     : "New Mexico" ,
+    "position" : "31"
+  } ,
+  "NEW_YORK"             : {
+    "name"     : "New York" ,
+    "position" : "32"
+  } ,
+  "NORTH_CAROLINA"       : {
+    "name"     : "North Carolina" ,
+    "position" : "33"
+  } ,
+  "NORTH_DAKOTA"         : {
+    "name"     : "North Dakota" ,
+    "position" : "34"
+  } ,
+  "OHIO"                 : {
+    "name"     : "Ohio" ,
+    "position" : "35"
+  } ,
+  "OKLAHOMA"             : {
+    "name"     : "Oklahoma" ,
+    "position" : "36"
+  } ,
+  "OREGON"               : {
+    "name"     : "Oregon" ,
+    "position" : "37"
+  } ,
+  "PENNSYLVANIA"         : {
+    "name"     : "Pennsylvania" ,
+    "position" : "38"
+  } ,
+  "PUERTO_RICO"          : {
+    "name"     : "Puerto Rico" ,
+    "position" : "51"
+  } ,
+  "RHODE_ISLAND"         : {
+    "name"     : "Rhode Island" ,
+    "position" : "39"
+  } ,
+  "SOUTH_CAROLINA"       : {
+    "name"     : "South Carolina" ,
+    "position" : "40"
+  } ,
+  "SOUTH_DAKOTA"         : {
+    "name"     : "South Dakota" ,
+    "position" : "41"
+  } ,
+  "TENNESSEE"            : {
+    "name"     : "Tennessee" ,
+    "position" : "42"
+  } ,
+  "TEXAS"                : {
+    "name"     : "Texas" ,
+    "position" : "43"
+  } ,
+  "US_VIRGIN_ISLANDS"    : {
+    "name"     : "US Virgin Islands" ,
+    "position" : "52"
+  } ,
+  "UTAH"                 : {
+    "name"     : "Utah" ,
+    "position" : "44"
+  } ,
+  "VERMONT"              : {
+    "name"     : "Vermont" ,
+    "position" : "45"
+  } ,
+  "VIRGINIA"             : {
+    "name"     : "Virginia" ,
+    "position" : "46"
+  } ,
+  "WASHINGTON"           : {
+    "name"     : "Washington" ,
+    "position" : "47"
+  } ,
+  "WEST_VIRGINIA"        : {
+    "name"     : "West Virginia" ,
+    "position" : "48"
+  } ,
+  "WISCONSIN"            : {
+    "name"     : "Wisconsin" ,
+    "position" : "49"
+  } ,
+  "WYOMING"              : {
+    "name"     : "Wyoming" ,
+    "position" : "50"
+  }
+}

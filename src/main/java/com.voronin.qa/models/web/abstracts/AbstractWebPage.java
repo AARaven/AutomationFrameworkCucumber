@@ -1,18 +1,29 @@
 package com.voronin.qa.models.web.abstracts;
 
 import com.voronin.qa.models.web.interfaces.WebPage;
-import com.voronin.qa.utils.PropertiesReader;
+import com.voronin.qa.utils.LocalProperties;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.PageFactory;
 
 public abstract class AbstractWebPage implements WebPage {
 
-    public final String url;
+    private final String url;
 
     private final WebDriver driver;
 
+    protected WebDriver getDriver() {
+        return this.driver;
+    }
+
+    public String getTitle() {
+        return this.driver.getTitle();
+    }
+
     public AbstractWebPage( WebDriver driver ) {
         this.driver = driver;
-        this.url    = PropertiesReader.getProperty( getClass().getSimpleName() );
+        this.url    = LocalProperties.getProperty( getClass().getSimpleName() );
+
+        PageFactory.initElements( driver , this );
     }
 
     @Override

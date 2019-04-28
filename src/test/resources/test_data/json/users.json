@@ -1,0 +1,321 @@
+[
+  {
+    "first_name"     : "Alex" ,
+    "last_name"      : "Smith" ,
+    "date_of_birth"  : {
+      "day"   : "1" ,
+      "month" : "4" ,
+      "year"  : "1999"
+    } ,
+    "gender"         : "MALE" ,
+    "credentials"    : {
+      "email"    : "asdf.qwer@fda.zxc" ,
+      "password" : "asdfQWERZXCVasdfZXCVxzcv"
+    } ,
+    "address"        : {
+      "company_name"           : "Coca-Cola inc." ,
+      "address_line_1"         : "Left corner st." ,
+      "address_line_2"         : "2" ,
+      "city"                   : "Babruysk" ,
+      "state"                  : "IOWA" ,
+      "postal_code"            : "44444" ,
+      "country"                : "United States" ,
+      "additional_information" : "some test text, some test text, some test text" ,
+      "home_phone"             : "443355" ,
+      "mobile_phone"           : "112233445566" ,
+      "address_alias"          : "first address"
+    } ,
+    "newsletters"    : false ,
+    "special_offers" : true
+  } ,
+  {
+    "first_name"     : "John" ,
+    "last_name"      : "Doe" ,
+    "date_of_birth"  : {
+      "day"   : "1" ,
+      "month" : "4" ,
+      "year"  : "1999"
+    } ,
+    "gender"         : "MALE" ,
+    "credentials"    : {
+      "email"    : "asdf.qwer@fda.zxc" ,
+      "password" : "asdfQWERZXCVasdfZXCVxzcv"
+    } ,
+    "address"        : {
+      "company_name"           : "Coca-Cola inc." ,
+      "address_line_1"         : "Left corner st." ,
+      "address_line_2"         : "2" ,
+      "city"                   : "Babruysk" ,
+      "state"                  : "IOWA" ,
+      "postal_code"            : "44444" ,
+      "country"                : "United States" ,
+      "additional_information" : "some test text, some test text, some test text" ,
+      "home_phone"             : "443355" ,
+      "mobile_phone"           : "112233445566" ,
+      "address_alias"          : "first address"
+    } ,
+    "newsletters"    : true ,
+    "special_offers" : true
+  } ,
+  {
+    "first_name"     : "Johanna" ,
+    "last_name"      : "Doe" ,
+    "date_of_birth"  : {
+      "day"   : "1" ,
+      "month" : "4" ,
+      "year"  : "1999"
+    } ,
+    "gender"         : "FEMALE" ,
+    "credentials"    : {
+      "email"    : "asdf.qwer@fda.zxc" ,
+      "password" : "asdfQWERZXCVasdfZXCVxzcv"
+    } ,
+    "address"        : {
+      "company_name"           : "Coca-Cola inc." ,
+      "address_line_1"         : "Left corner st." ,
+      "address_line_2"         : "2" ,
+      "city"                   : "Babruysk" ,
+      "state"                  : "IOWA" ,
+      "postal_code"            : "44444" ,
+      "country"                : "United States" ,
+      "additional_information" : "some test text, some test text, some test text" ,
+      "home_phone"             : "443355" ,
+      "mobile_phone"           : "112233445566" ,
+      "address_alias"          : "first address"
+    } ,
+    "newsletters"    : false ,
+    "special_offers" : true
+  } ,
+  {
+    "first_name"     : "Bill" ,
+    "last_name"      : "Gates" ,
+    "date_of_birth"  : {
+      "day"   : "1" ,
+      "month" : "4" ,
+      "year"  : "1999"
+    } ,
+    "gender"         : "MALE" ,
+    "credentials"    : {
+      "email"    : "asdf.qwer@fda.zxc" ,
+      "password" : "asdfQWERZXCVasdfZXCVxzcv"
+    } ,
+    "address"        : {
+      "company_name"           : "Coca-Cola inc." ,
+      "address_line_1"         : "Left corner st." ,
+      "address_line_2"         : "2" ,
+      "city"                   : "Babruysk" ,
+      "state"                  : "IOWA" ,
+      "postal_code"            : "44444" ,
+      "country"                : "United States" ,
+      "additional_information" : "some test text, some test text, some test text" ,
+      "home_phone"             : "443355" ,
+      "mobile_phone"           : "112233445566" ,
+      "address_alias"          : "first address"
+    } ,
+    "newsletters"    : true ,
+    "special_offers" : true
+  } ,
+  {
+    "first_name"     : "Steve" ,
+    "last_name"      : "Jobs" ,
+    "date_of_birth"  : {
+      "day"   : "1" ,
+      "month" : "4" ,
+      "year"  : "1999"
+    } ,
+    "gender"         : "MALE" ,
+    "credentials"    : {
+      "email"    : "asdf.qwer@fda.zxc" ,
+      "password" : "asdfQWERZXCVasdfZXCVxzcv"
+    } ,
+    "address"        : {
+      "company_name"           : "Coca-Cola inc." ,
+      "address_line_1"         : "Left corner st." ,
+      "address_line_2"         : "2" ,
+      "city"                   : "Babruysk" ,
+      "state"                  : "IOWA" ,
+      "postal_code"            : "44444" ,
+      "country"                : "United States" ,
+      "additional_information" : "some test text, some test text, some test text" ,
+      "home_phone"             : "443355" ,
+      "mobile_phone"           : "112233445566" ,
+      "address_alias"          : "first address"
+    } ,
+    "newsletters"    : true ,
+    "special_offers" : false
+  } ,
+  {
+    "first_name"     : "John" ,
+    "last_name"      : "Snow" ,
+    "date_of_birth"  : {
+      "day"   : "1" ,
+      "month" : "4" ,
+      "year"  : "1999"
+    } ,
+    "gender"         : "MALE" ,
+    "credentials"    : {
+      "email"    : "asdf.qwer@fda.zxc" ,
+      "password" : "asdfQWERZXCVasdfZXCVxzcv"
+    } ,
+    "address"        : {
+      "company_name"           : "Coca-Cola inc." ,
+      "address_line_1"         : "Left corner st." ,
+      "address_line_2"         : "2" ,
+      "city"                   : "Babruysk" ,
+      "state"                  : "IOWA" ,
+      "postal_code"            : "44444" ,
+      "country"                : "United States" ,
+      "additional_information" : "some test text, some test text, some test text" ,
+      "home_phone"             : "443355" ,
+      "mobile_phone"           : "112233445566" ,
+      "address_alias"          : "first address"
+    } ,
+    "newsletters"    : true ,
+    "special_offers" : true
+  } ,
+  {
+    "first_name"     : "Freddy" ,
+    "last_name"      : "Mercury" ,
+    "date_of_birth"  : {
+      "day"   : "1" ,
+      "month" : "4" ,
+      "year"  : "1999"
+    } ,
+    "gender"         : "MALE" ,
+    "credentials"    : {
+      "email"    : "asdf.qwer@fda.zxc" ,
+      "password" : "asdfQWERZXCVasdfZXCVxzcv"
+    } ,
+    "address"        : {
+      "company_name"           : "Coca-Cola inc." ,
+      "address_line_1"         : "Left corner st." ,
+      "address_line_2"         : "2" ,
+      "city"                   : "Babruysk" ,
+      "state"                  : "IOWA" ,
+      "postal_code"            : "44444" ,
+      "country"                : "United States" ,
+      "additional_information" : "some test text, some test text, some test text" ,
+      "home_phone"             : "443355" ,
+      "mobile_phone"           : "112233445566" ,
+      "address_alias"          : "first address"
+    } ,
+    "newsletters"    : true ,
+    "special_offers" : false
+  } ,
+  {
+    "first_name"     : "Stacy" ,
+    "last_name"      : "Addams" ,
+    "date_of_birth"  : {
+      "day"   : "1" ,
+      "month" : "4" ,
+      "year"  : "1999"
+    } ,
+    "gender"         : "FEMALE" ,
+    "credentials"    : {
+      "email"    : "asdf.qwer@fda.zxc" ,
+      "password" : "asdfQWERZXCVasdfZXCVxzcv"
+    } ,
+    "address"        : {
+      "company_name"           : "Coca-Cola inc." ,
+      "address_line_1"         : "Left corner st." ,
+      "address_line_2"         : "2" ,
+      "city"                   : "Babruysk" ,
+      "state"                  : "IOWA" ,
+      "postal_code"            : "44444" ,
+      "country"                : "United States" ,
+      "additional_information" : "some test text, some test text, some test text" ,
+      "home_phone"             : "443355" ,
+      "mobile_phone"           : "112233445566" ,
+      "address_alias"          : "first address"
+    } ,
+    "newsletters"    : false ,
+    "special_offers" : true
+  } ,
+  {
+    "first_name"     : "Nicole" ,
+    "last_name"      : "Smith" ,
+    "date_of_birth"  : {
+      "day"   : "1" ,
+      "month" : "4" ,
+      "year"  : "1999"
+    } ,
+    "gender"         : "FEMALE" ,
+    "credentials"    : {
+      "email"    : "asdf.qwer@fda.zxc" ,
+      "password" : "asdfQWERZXCVasdfZXCVxzcv"
+    } ,
+    "address"        : {
+      "company_name"           : "Coca-Cola inc." ,
+      "address_line_1"         : "Left corner st." ,
+      "address_line_2"         : "2" ,
+      "city"                   : "Babruysk" ,
+      "state"                  : "IOWA" ,
+      "postal_code"            : "44444" ,
+      "country"                : "United States" ,
+      "additional_information" : "some test text, some test text, some test text" ,
+      "home_phone"             : "443355" ,
+      "mobile_phone"           : "112233445566" ,
+      "address_alias"          : "first address"
+    } ,
+    "newsletters"    : false ,
+    "special_offers" : false
+  } ,
+  {
+    "first_name"     : "Mick" ,
+    "last_name"      : "Jagger" ,
+    "date_of_birth"  : {
+      "day"   : "1" ,
+      "month" : "4" ,
+      "year"  : "1999"
+    } ,
+    "gender"         : "MALE" ,
+    "credentials"    : {
+      "email"    : "asdf.qwer@fda.zxc" ,
+      "password" : "asdfQWERZXCVasdfZXCVxzcv"
+    } ,
+    "address"        : {
+      "company_name"           : "Coca-Cola inc." ,
+      "address_line_1"         : "Left corner st." ,
+      "address_line_2"         : "2" ,
+      "city"                   : "Babruysk" ,
+      "state"                  : "IOWA" ,
+      "postal_code"            : "44444" ,
+      "country"                : "United States" ,
+      "additional_information" : "some test text, some test text, some test text" ,
+      "home_phone"             : "443355" ,
+      "mobile_phone"           : "112233445566" ,
+      "address_alias"          : "first address"
+    } ,
+    "newsletters"    : false ,
+    "special_offers" : true
+  } ,
+  {
+    "first_name"     : "John" ,
+    "last_name"      : "Lennon" ,
+    "date_of_birth"  : {
+      "day"   : "1" ,
+      "month" : "4" ,
+      "year"  : "1999"
+    } ,
+    "gender"         : "MALE" ,
+    "credentials"    : {
+      "email"    : "asdf.qwer@fda.zxc" ,
+      "password" : "asdfQWERZXCVasdfZXCVxzcv"
+    } ,
+    "address"        : {
+      "company_name"           : "Coca-Cola inc." ,
+      "address_line_1"         : "Left corner st." ,
+      "address_line_2"         : "2" ,
+      "city"                   : "Babruysk" ,
+      "state"                  : "IOWA" ,
+      "postal_code"            : "44444" ,
+      "country"                : "United States" ,
+      "additional_information" : "some test text, some test text, some test text" ,
+      "home_phone"             : "443355" ,
+      "mobile_phone"           : "112233445566" ,
+      "address_alias"          : "first address"
+    } ,
+    "newsletters"    : true ,
+    "special_offers" : false
+  }
+]

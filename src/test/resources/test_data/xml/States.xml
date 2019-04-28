@@ -1,0 +1,161 @@
+<States>
+    <state name = "ALABAMA"
+           position = "1">Alabama
+    </state>
+    <state name = "ALASKA"
+           position = "2">Alaska
+    </state>
+    <state name = "ARIZONA"
+           position = "3">Arizona
+    </state>
+    <state name = "ARKANSAS"
+           position = "4">Arkansas
+    </state>
+    <state name = "CALIFORNIA"
+           position = "5">California
+    </state>
+    <state name = "COLORADO"
+           position = "6">Colorado
+    </state>
+    <state name = "CONNECTICUT"
+           position = "7">Connecticut
+    </state>
+    <state name = "DELAWARE"
+           position = "8">Delaware
+    </state>
+    <state name = "DISTRICT_OF_COLUMBIA"
+           position = "53">District of Columbia
+    </state>
+    <state name = "FLORIDA"
+           position = "9">Florida
+    </state>
+    <state name = "GEORGIA"
+           position = "10">Georgia
+    </state>
+    <state name = "HAWAII"
+           position = "11">Hawaii
+    </state>
+    <state name = "IDAHO"
+           position = "12">Idaho
+    </state>
+    <state name = "ILLINOIS"
+           position = "13">Illinois
+    </state>
+    <state name = "INDIANA"
+           position = "14">Indiana
+    </state>
+    <state name = "IOWA"
+           position = "15">Iowa
+    </state>
+    <state name = "KANSAS"
+           position = "16">Kansas
+    </state>
+    <state name = "KENTUCKY"
+           position = "17">Kentucky
+    </state>
+    <state name = "LOUISIANA"
+           position = "18">Louisiana
+    </state>
+    <state name = "MAINE"
+           position = "19">Maine
+    </state>
+    <state name = "MARYLAND"
+           position = "20">Maryland
+    </state>
+    <state name = "MASSACHUSETTS"
+           position = "21">Massachusetts
+    </state>
+    <state name = "MICHIGAN"
+           position = "22">Michigan
+    </state>
+    <state name = "MINNESOTA"
+           position = "23">Minnesota
+    </state>
+    <state name = "MISSISSIPPI"
+           position = "24">Mississippi
+    </state>
+    <state name = "MISSOURI"
+           position = "25">Missouri
+    </state>
+    <state name = "MONTANA"
+           position = "26">Montana
+    </state>
+    <state name = "NEBRASKA"
+           position = "27">Nebraska
+    </state>
+    <state name = "NEVADA"
+           position = "28">Nevada
+    </state>
+    <state name = "NEW_HAMPSHIRE"
+           position = "29">New Hampshire
+    </state>
+    <state name = "NEW_JERSEY"
+           position = "30">New Jersey
+    </state>
+    <state name = "NEW_MEXICO"
+           position = "31">New Mexico
+    </state>
+    <state name = "NEW_YORK"
+           position = "32">New York
+    </state>
+    <state name = "NORTH_CAROLINA"
+           position = "33">North Carolina
+    </state>
+    <state name = "NORTH_DAKOTA"
+           position = "34">North Dakota
+    </state>
+    <state name = "OHIO"
+           position = "35">Ohio
+    </state>
+    <state name = "OKLAHOMA"
+           position = "36">Oklahoma
+    </state>
+    <state name = "OREGON"
+           position = "37">Oregon
+    </state>
+    <state name = "PENNSYLVANIA"
+           position = "38">Pennsylvania
+    </state>
+    <state name = "PUERTO_RICO"
+           position = "51">Puerto Rico
+    </state>
+    <state name = "RHODE_ISLAND"
+           position = "39">Rhode Island
+    </state>
+    <state name = "SOUTH_CAROLINA"
+           position = "40">South Carolina
+    </state>
+    <state name = "SOUTH_DAKOTA"
+           position = "41">South Dakota
+    </state>
+    <state name = "TENNESSEE"
+           position = "42">Tennessee
+    </state>
+    <state name = "TEXAS"
+           position = "43">Texas
+    </state>
+    <state name = "US_VIRGIN_ISLANDS"
+           position = "52">US Virgin Islands
+    </state>
+    <state name = "UTAH"
+           position = "44">Utah
+    </state>
+    <state name = "VERMONT"
+           position = "45">Vermont
+    </state>
+    <state name = "VIRGINIA"
+           position = "46">Virginia
+    </state>
+    <state name = "WASHINGTON"
+           position = "47">Washington
+    </state>
+    <state name = "WEST_VIRGINIA"
+           position = "48">West Virginia
+    </state>
+    <state name = "WISCONSIN"
+           position = "49">Wisconsin
+    </state>
+    <state name = "WYOMING"
+           position = "50">Wyoming
+    </state>
+</States>
